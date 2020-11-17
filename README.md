@@ -16,3 +16,6 @@ Lemmas + TF-IDF Vectorizer + categorical variables + LightGBM.
 Clean text + TF-IDF Vectorizer + categorical variables + LightGBM.
 
 Technologies: numpy, prophet, matplotlib, scipy, sklearn, lightgbm, nltk, pymorphy2, altair, re.
+
+Habr_article_rating_prediction.ipynb - EDA, preprocessing, feature engineering, all experiments, and anomaly detection.
+preprocessing_tools.py - functions for text preprocessing
