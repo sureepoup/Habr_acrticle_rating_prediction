@@ -10,9 +10,9 @@ Metric - MAE (Mean Absolute Error).
 
 Best baselines:
 
-Lemmas + TF-IDF Vectorizer + categorical variables + LightGBM.
+Lemmas + TF-IDF Vectorizer + engineered features + LightGBM.
 
-Clean text + TF-IDF Vectorizer + categorical variables + LightGBM.
+Clean text + TF-IDF Vectorizer + engineered features + LightGBM.
 
 Technologies: numpy, prophet, matplotlib, scipy, sklearn, lightgbm, nltk, pymorphy2, altair, re.
 
